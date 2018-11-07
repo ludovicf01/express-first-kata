@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.nyc_output
+.idea
+package-lock.json
+coverage
+.vscode
